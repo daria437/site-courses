@@ -82,7 +82,7 @@ body {
 }
 
 .join {
-    background-color: #febe02;
+    background-color: #06c716;
     position: absolute;
     right: 0;
     bottom: 0;
@@ -367,3 +367,14 @@ body {
     letter-spacing: 0.5px;
     color: #9a9a9b;
 }
+
+
+.header {
+    background-image: url('img/DSC_9032.jpg'); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center; 
+    height: 100vh; 
+    margin: 0; 
+}
+
